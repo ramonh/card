@@ -1,5 +1,5 @@
 {
-  "name": "ramonh",
+  "name": "@ramonh/card",
   "version": "1.6.0",
   "description": "A personal card for Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/ramonh/card.git"
   },
   "homepage": "https://bnb.im",
   "scripts": {
