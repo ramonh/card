@@ -1,7 +1,7 @@
 {
   "name": "@ramonh/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "version": "1.6.1",
+  "description": "A personal card for Ramón Huidobro (@ramonh)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ramonh/card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://ramonh.dev",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Ramón Huidobro <hola@ramonh.dev> (http://ramonh.dev)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/ramonh/card/issues"
   },
   "dependencies": {},
   "publishConfig": {
