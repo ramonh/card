@@ -1,6 +1,6 @@
 {
   "name": "@ramonh/card",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "A personal card for Ramón Huidobro (@ramonh)",
   "main": "/bin/card.js",
   "bin": {
