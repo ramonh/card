@@ -1,4 +1,4 @@
-It's me, Ramón!
+It's me, Ramón! Special thanks to [Tierney](https://github.com/bnb/bitandbang) for making this awesomeness
 
 # Usage
 
