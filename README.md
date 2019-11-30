@@ -2,6 +2,11 @@ It's me, Ramón! Special thanks to [Tierney](https://github.com/bnb/bitandbang) 
 
 # Usage
 
+## npm
+```
+npx ramonh
+```
+
 ## GitHub Package Registry
 Assuming you have the GitHub registry set up, you can use via npx:
 ```
